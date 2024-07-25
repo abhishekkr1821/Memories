@@ -1,5 +1,5 @@
 #Memories
--------> A social media web application where one can create, update, like and delete posts.
+------------> A social media web application where one can create, update, like and delete posts.
 #Add-Post
 ![AddPost](https://github.com/user-attachments/assets/7c460759-d454-4874-acce-9205930ccc15)
 #Edit-Post
