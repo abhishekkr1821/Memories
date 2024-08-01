@@ -1,5 +1,4 @@
-#Memories
-------------> A social media web application where one can create, update, like and delete posts.
+#Memories ----------->Depoly Link : https://abhishek-kr-memories-app.netlify.app/ A social media web application where one can create, update, like and delete posts.
 #Add-Post
 ![Add](https://github.com/user-attachments/assets/51e22472-8ea5-4c91-b217-48a49b83fe02)
 #Edit-Post
